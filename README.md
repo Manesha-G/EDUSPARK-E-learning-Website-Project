@@ -42,22 +42,25 @@ Each course includes:
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputSignup1.png)
 
 ### Login Page
+(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputLogin.png)
 
 ### Courses page
+(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCourses.png)
 
 ###  Course Detail Page
-![Course Detail](screenshots/course-detail.png)
+https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCoursedetail.png)
 
 ### Course Enrollment 
 
 ### Course status
+(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCourse status.png)
 
 ### Course Progress
+(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCourseProgress.png)
 
 ###  Certificate Download
 ![Certificate](screenshots/certificate.png)
 
-> Screenshots folder needs to be added manually with appropriate images if you want these to render on GitHub.
 
 ## 🛠️ Installation
 
