@@ -37,7 +37,7 @@ Each course includes:
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputHomepage1.png)
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputHomePage2.png)
 
-###   SignUpPage
+### SignUpPage
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputSignup.png)
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputSignup1.png)
 
@@ -47,10 +47,12 @@ Each course includes:
 ### Courses page
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCourses.png)
 
-###  Course Detail Page
-https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCoursedetail.png)
+### Course Detail Page
+(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCoursedetail.png)
 
-### Course Enrollment 
+### Course Enrollment
+(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputAfterenroolment.png)
+(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputEnrollment.png)
 
 ### Course status
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCourse status.png)
@@ -58,8 +60,8 @@ https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/Outpu
 ### Course Progress
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCourseProgress.png)
 
-###  Certificate Download
-![Certificate](screenshots/certificate.png)
+### Certificate Download
+(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCertificate.png)
 
 
 ## 🛠️ Installation
