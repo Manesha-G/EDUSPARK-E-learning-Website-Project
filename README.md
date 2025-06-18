@@ -38,6 +38,8 @@ Each course includes:
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputHomePage2.png)
 
 ###   SignUpPage
+(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputSignup.png)
+(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputSignup1.png)
 
 ### Login Page
 
