@@ -51,11 +51,12 @@ Each course includes:
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCoursedetail.png)
 
 ### Course Enrollment
-(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputAfterenroolment.png)
+(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputAfterenroolement.png)
+
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputEnrollment.png)
 
 ### Course status
-(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCourse status.png)
+(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCourse%20status.png)
 
 ### Course Progress
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCourseProgress.png)
