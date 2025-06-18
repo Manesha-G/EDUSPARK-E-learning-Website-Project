@@ -62,7 +62,9 @@ Each course includes:
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCourseProgress.png)
 
 ### Certificate Download
-(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCertificate.png)
+(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCertificate%20.png)
+
+### Certificate
 
 
 ## 🛠️ Installation
