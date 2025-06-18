@@ -29,17 +29,29 @@ Each course includes:
 - Detailed syllabus
 - Embedded YouTube videos
 - Progress tracking
-- Certificate upon 100% video completion
+- Certificate upon 100% video compleustion
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Home Page](screenshots/home.png)
+###  Home Page
+![HomePage](screenshots/course-detail.png)
 
-### 📘 Course Detail Page
+###   SignUpPage
+
+### Login Page
+
+### Courses page
+
+###  Course Detail Page
 ![Course Detail](screenshots/course-detail.png)
 
-### 📜 Certificate Download
+### Course Enrollment 
+
+### Course status
+
+### Course Progress
+
+###  Certificate Download
 ![Certificate](screenshots/certificate.png)
 
 > Screenshots folder needs to be added manually with appropriate images if you want these to render on GitHub.
