@@ -35,10 +35,12 @@ Each course includes:
 
 ###  Home Page
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputHomepage1.png)
+
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputHomePage2.png)
 
 ### SignUpPage
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputSignup.png)
+
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputSignup1.png)
 
 ### Login Page
@@ -65,6 +67,7 @@ Each course includes:
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCertificate%20.png)
 
 ### Certificate
+(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputCertificate.pdf)
 
 
 ## 🛠️ Installation
