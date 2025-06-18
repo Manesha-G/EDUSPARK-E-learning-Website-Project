@@ -35,6 +35,7 @@ Each course includes:
 
 ###  Home Page
 (https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputHomepage1.png)
+(https://github.com/Manesha-G/EDUSPARK-E-learning-Website-Project/blob/main/OutputHomePage2.png)
 
 ###   SignUpPage
 
